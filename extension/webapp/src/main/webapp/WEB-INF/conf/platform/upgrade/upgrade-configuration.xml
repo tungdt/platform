@@ -28,7 +28,7 @@
       </init-params>
     </component-plugin>
         <component-plugin>
-            <name>Upgrade-OrganizationItegration</name>
+            <name>Upgrade-OrganizationIntegration</name>
             <set-method>addUpgradePlugin</set-method>
             <type>org.exoplatform.platform.upgrade.plugins.UpgradeOrganizationIntegrationDataPlugin</type>
             <description>OrganizationItegration Data Upgrade Plugin</description>
